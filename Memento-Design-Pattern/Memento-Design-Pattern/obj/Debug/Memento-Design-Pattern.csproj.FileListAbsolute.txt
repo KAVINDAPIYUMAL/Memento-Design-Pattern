@@ -1,0 +1,2 @@
+D:\MyLearns\GIT\Design_Patterns\Memento-Design-Pattern\Memento-Design-Pattern\Memento-Design-Pattern\Memento-Design-Pattern\obj\Debug\Memento-Design-Pattern.csproj.AssemblyReference.cache
+D:\MyLearns\GIT\Design_Patterns\Memento-Design-Pattern\Memento-Design-Pattern\Memento-Design-Pattern\Memento-Design-Pattern\obj\Debug\Memento-Design-Pattern.csproj.CoreCompileInputs.cache
